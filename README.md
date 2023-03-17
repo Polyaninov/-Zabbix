@@ -45,6 +45,9 @@
 Ответ:
 Ставил zabbix на Ubuntu, использвал веб-сервер nginx 
 
+![Screenshot_6](https://user-images.githubusercontent.com/75700701/225963504-3be1c4da-0be4-4689-8073-a4766915618a.png)
+
+
 ![Screenshot_2](https://user-images.githubusercontent.com/75700701/225961329-79ef1da5-1731-4138-a857-b80fe01095ba.png)
 
 
