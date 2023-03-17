@@ -46,3 +46,8 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/75700701/225961329-79ef1da5-1731-4138-a857-b80fe01095ba.png)
 
 
+Команды для установки zabbix 
+![Screenshot_3](https://user-images.githubusercontent.com/75700701/225962043-ac294426-efbd-4f10-9037-8e6fabd04e23.png)
+
+![Screenshot_4](https://user-images.githubusercontent.com/75700701/225962111-5bcc2cd0-4e74-44c2-8935-13f533afd716.png)
+
