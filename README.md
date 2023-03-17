@@ -27,6 +27,7 @@
 
 
 Задание 1
+
 Установите Zabbix Server с веб-интерфейсом.
 
 Процесс выполнения
@@ -40,4 +41,7 @@
 Приложите в файл README.md текст использованных команд в GitHub
 
 Ответ:
+
+![Screenshot_2](https://user-images.githubusercontent.com/75700701/225961329-79ef1da5-1731-4138-a857-b80fe01095ba.png)
+
 
