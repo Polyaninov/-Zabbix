@@ -95,6 +95,11 @@
 
 Ответ: 
 
+Развернул машину Debian на яндекс облаке  для установки zabbix-agent
+
+![Screenshot_10](https://user-images.githubusercontent.com/75700701/226104626-3a76b486-2fa4-44e4-b37b-49a2e4ddf90c.png)
+
+
 
 
 
